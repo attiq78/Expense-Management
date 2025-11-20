@@ -17,7 +17,7 @@ This is a web application for expense management created with HTML, CSS, Bootstr
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/muhammadazhariqbal/Expense-Management-JS.git
+    git clone https://github.com/attiq78/Expense-Management
     ```
 2. Navigate to the project directory
     ```bash
